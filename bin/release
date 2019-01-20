@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-set -euo pipefail
-
-BUILD_DIR=$1
-cat /tmp/go-buildpack-release-step.yml

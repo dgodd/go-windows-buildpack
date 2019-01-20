@@ -1,2 +1,4 @@
 @echo off
-type c:\tmp\go-buildpack-release-step.yml
+echo ---
+echo default_process_types:
+echo   web: .\myapp.exe
