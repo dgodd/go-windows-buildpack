@@ -1,1 +1,3 @@
 /go_buildpack-*.zip
+/bin/finalize.exe
+/bin/supply.exe

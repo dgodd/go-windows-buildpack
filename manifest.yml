@@ -1,0 +1,9 @@
+---
+language: go
+dependencies:
+- name: go
+  version: 1.11.4
+  uri: https://dl.google.com/go/go1.11.4.windows-amd64.zip
+  sha256: eeb20e21702f2b9469d9381df5de85e2f731b64a1f54effe196d0f7d0227fe14
+  cf_stacks:
+  - windows2016
